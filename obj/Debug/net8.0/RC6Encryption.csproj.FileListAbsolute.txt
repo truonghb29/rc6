@@ -1,0 +1,14 @@
+/Users/thanhtruong/cnmp1/rc6/bin/Debug/net8.0/RC6Encryption
+/Users/thanhtruong/cnmp1/rc6/bin/Debug/net8.0/RC6Encryption.deps.json
+/Users/thanhtruong/cnmp1/rc6/bin/Debug/net8.0/RC6Encryption.runtimeconfig.json
+/Users/thanhtruong/cnmp1/rc6/bin/Debug/net8.0/RC6Encryption.dll
+/Users/thanhtruong/cnmp1/rc6/bin/Debug/net8.0/RC6Encryption.pdb
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.AssemblyInfoInputs.cache
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.AssemblyInfo.cs
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.csproj.CoreCompileInputs.cache
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.dll
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/refint/RC6Encryption.dll
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.pdb
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/RC6Encryption.genruntimeconfig.cache
+/Users/thanhtruong/cnmp1/rc6/obj/Debug/net8.0/ref/RC6Encryption.dll
